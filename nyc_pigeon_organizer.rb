@@ -10,7 +10,6 @@ def nyc_pigeon_organizer(data)
       end
     end
   end
-
-  p_hash
+p_hash
 end
 end
